@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pydantic-ai
+supabase
+httpx
+python-dotenv
+openai
+logfire
+devtools
