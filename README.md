@@ -4,5 +4,5 @@ Welcome to the ChenAI Community repository-contributed and founded by Madhavan. 
 
 Join us as we experiment, learn and push the boundaries of intelligent automation—together.
 
-— Madhavan  
-© 2024 ChenAI Community
+                                                          
+                                                                            © 2025 ChenAI Community
