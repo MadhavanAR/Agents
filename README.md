@@ -1,4 +1,4 @@
-# ChenAI Community
+# [ChenAI Community](https://www.linkedin.com/company/chenai/)
 
 Welcome to the ChenAI Community repository-contributed and founded by Madhavan. This is your open-source hub for exploring, building and sharing innovative AI agent solutions that empower businesses and spark collaboration.
 
